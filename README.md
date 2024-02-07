@@ -1,9 +1,8 @@
 ### Hi there 👋
 
 
-**Andyzxm/Andyzxm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+**Introduction: 
+Hey there, I am Andy! A PHD Student at University of Tennessee Knoxville. I am currently working on Water security and infrastructure issues in Appalachia region. 
 
 - 🔭 I’m currently working on water security in Appalachia
 - 🌱 I’m currently learning Open Source GIS methods 
@@ -13,3 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Here 
 - ⚡ Fun fact: ⛰️🏋️🍲
 
+- Projects: (Working progress) 
