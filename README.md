@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-to my personal GitHub profile!
+to my personal GIS GitHub profile!
 </div>
 
 <h3 align="center">
@@ -19,8 +19,8 @@ to my personal GitHub profile!
 <hr>
 
 <div align="center">
-<p>Write something nice in my guest book:</p>
-<a href="https://github.com/fnky/fnky/issues"><img src="https://github.com/fnky/fnky/raw/fnky/img/guestbook.gif" alt="Guest book" align="center"></a>
+<p>Give me suggestions on my works!</p>
+<a href="andyzxm.github.io/gisxaz.github.io/"><img src="https://github.com/fnky/fnky/raw/fnky/img/guestbook.gif" alt="Guest book" align="center"></a>
 </div>
 
 <hr>
