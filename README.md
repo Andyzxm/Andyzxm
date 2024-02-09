@@ -11,7 +11,7 @@ to my personal GIS GitHub profile!
 </div>
 
 <h3 align="center">
-<a href="gisxaz.github.io/">Visit my personal homepage
+<a href="https://andyzxm.github.io/gisxaz.github.io/">Visit my personal homepage
 <img src="https://github.com/fnky/fnky/raw/fnky/img/website.gif" alt="Visit homepage" align="center">
 </a>
 </h3>
@@ -20,7 +20,7 @@ to my personal GIS GitHub profile!
 
 <div align="center">
 <p>Give me suggestions on my works!</p>
-<a href="andyzxm.github.io/gisxaz.github.io/"><img src="https://github.com/fnky/fnky/raw/fnky/img/guestbook.gif" alt="Guest book" align="center"></a>
+<a href="https://github.com/Andyzxm/Appalachia-water-security/issues"><img src="https://github.com/fnky/fnky/raw/fnky/img/guestbook.gif" alt="Guest book" align="center"></a>
 </div>
 
 <hr>
