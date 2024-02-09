@@ -11,7 +11,7 @@ to my personal GIS GitHub profile!
 </div>
 
 <h3 align="center">
-<a href="andyzxm.github.io/gisxaz.github.io/">Visit my personal homepage
+<a href="gisxaz.github.io/">Visit my personal homepage
 <img src="https://github.com/fnky/fnky/raw/fnky/img/website.gif" alt="Visit homepage" align="center">
 </a>
 </h3>
